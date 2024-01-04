@@ -1,2 +1,2 @@
 # Demo
-[link](fast-react-pizza-rick-li.netlify.app)
+[Fast React Pizza](https://fast-react-pizza-rick-li.netlify.app/)
